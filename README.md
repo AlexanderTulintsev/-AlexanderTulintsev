@@ -1,4 +1,4 @@
-<h1 class='center'>Hello, I'm a Alexander Tulintsev!</h1>
+<h1 class='center'>Hello, I'm Alexander Tulintsev!</h1>
 <h2>I'm a student at Peter the Great St. Petersburg Polytechnic University.</h2>
 <h3>Briefly about my IT skills:</h3>
 <p> - From 2020 to 2023, I was a student of the Academy of Digital Technologies of St. Petersburg in the profile "Flying Robotics" and "Web development".</p>
